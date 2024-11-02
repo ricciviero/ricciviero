@@ -30,5 +30,5 @@ I'm a 26-year-old passionate about all things tech. After spending several years
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ricciviero&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/tuousername](https://www.linkedin.com/in/riccardo-civiero-13b2a312b/)) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/riccardo-civiero-13b2a312b/](https://www.linkedin.com/in/riccardo-civiero-13b2a312b/)) 
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/ricciviero)
