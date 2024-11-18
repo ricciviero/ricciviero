@@ -3,7 +3,8 @@ I'm a 26-year-old passionate about all things tech. After spending several years
 
 🌱 I'm currently learning and building new projects to sharpen my skills.<br>
 💡 Open to collaborations, ideas, and opportunities in the tech space.<br>
-📫 You can reach me at: riccardo@riccardociviero.com
+📫 You can reach me at: riccardo@riccardociviero.com<br>
+🤙 Book a call with me: https://cal.com/ricciviero/30min
 
 ## 💻 Tech Stack:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
