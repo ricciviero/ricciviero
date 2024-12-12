@@ -30,7 +30,6 @@ I'm a 26-year-old passionate about all things tech. After spending several years
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ricciviero&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ricciviero&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🌐 Socials:
